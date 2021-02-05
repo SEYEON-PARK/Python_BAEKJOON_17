@@ -13,4 +13,4 @@ print(A+B)
 print(A-B)
 print(A*B)
 print(A/B)
-print(A%B) #출력하기
+print(A%B) #출력하기 
